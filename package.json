@@ -1,0 +1,21 @@
+{
+  "name": "entropy-outrun-darker-high-contrast",
+  "displayName": "Outrun Darker High Contrast",
+  "description": "This VS-Code-Theme is based on [[https://github.com/samrap/outrun-theme-vscode|semrapdevs \"Outrun Electric meets Synthwave\"]].",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Outrun Dark&HC",
+        "uiTheme": "hc-black",
+        "path": "./themes/Outrun Dark&HC-color-theme.json"
+      }
+    ]
+  }
+}
